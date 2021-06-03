@@ -2,7 +2,7 @@
 
 ### WALL-E 
 
-[Download sources](/Projects/wall-e.mcsg)
+[Download sources](/Project/wall-e.mcsg)
 
 ![](Project/wall-e.png)
 
@@ -10,6 +10,6 @@
 
 ### Computer
 
-[Download sources](/Projects/i-mac.mcsg)
+[Download sources](/Project/computer.mcsg)
 
 ![](Project/computer.png)
