@@ -4,7 +4,7 @@
 
 [Download sources](/Project/Boy.mcsg)
 
-### ![](Project/Boy.png)
+![](Project/boy.png)
 
 ---
 
