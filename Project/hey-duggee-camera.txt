@@ -1,0 +1,90 @@
+camera : {
+    _id = '0'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '1'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '2'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '3'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '4'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '5'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '6'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '7'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '8'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}
+camera : {
+    _id = '9'
+    _mode = 'pers'
+    _focus = '0 0 0'
+    _angle = '0 0 0'
+    _radius = '0'
+    _frustum = '0.414214'
+    _fov = '45'
+}

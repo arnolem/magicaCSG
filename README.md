@@ -1,5 +1,11 @@
 # MagicaCSG
 
+### Hey Duggee
+
+[Download sources](/Project/hey-duggee.mcsg?raw=true)
+
+![](Project/hey-duggee.png)
+
 ### Boy 
 
 [Download sources](/Project/Boy.mcsg?raw=true)
